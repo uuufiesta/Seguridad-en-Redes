@@ -1,0 +1,14 @@
+
+# Obedient cat
+## Descripcion
+This file has a flag in plain sight (aka "in-the-clear"). [Download flag](https://mercury.picoctf.net/static/704f877da185904ec3992e7255a15c6c/flag).
+## Pistas
+
+## Solucion
+``` bash
+┌──(pariboy㉿uuufiesta)-[~/Descargas]
+└─$ cat flag'           
+picoCTF{s4n1ty_v3r1f13d_1a94e0f9}
+```
+## Bandera
+picoCTF{s4n1ty_v3r1f13d_1a94e0f9}

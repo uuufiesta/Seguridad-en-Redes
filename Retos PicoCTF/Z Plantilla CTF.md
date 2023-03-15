@@ -5,6 +5,8 @@
 ## Pistas
 
 ## Solucion
+``` bash
 
+```
 ## Bandera
 picoCTF{}
